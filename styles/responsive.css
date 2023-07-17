@@ -55,7 +55,9 @@
         width: 50px;
         margin:0px 15px;
     }
-
+    .popular-section{
+        grid-template-columns: 330px;
+    }
 
 }
 
@@ -77,5 +79,10 @@
         width: 100%;
         font-size: 28px;
         /* margin-top: -60px; */
+    }
+    .popular-section{
+        grid-template-columns: 1fr;
+        /* margin: 0px 20px; */
+        /* margin: 0px auto; */
     }
 }
