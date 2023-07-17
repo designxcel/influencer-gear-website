@@ -98,3 +98,16 @@
 .banner-section-right img{
     margin-top: 50px;
 }
+
+
+/* brand partner section */
+
+.brand-partner{
+    display: flex;
+    justify-content: space-around;
+    border: 1px dotted lightgray;
+    padding: 25px 20px;
+    align-items: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
