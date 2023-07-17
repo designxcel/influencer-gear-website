@@ -1,0 +1,26 @@
+@media screen and (max-width:500px) {
+    .menubar
+    {
+        flex-direction: column;
+        align-items: center;
+    }
+    
+    .logo-title{
+        margin-bottom: 10px;
+    }
+    .menu-item > ul
+    {
+        flex-direction: column;
+        align-items: center;
+    }
+    .menu-item li{
+        margin-bottom: 10px;
+    }
+
+}
+
+@media screen and (min-width:500px) and (max-width:990px) {
+    .logo-title{
+        margin: 0px 25px;
+    }
+}
