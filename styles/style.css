@@ -179,7 +179,6 @@
 .featured-products {
     display: flex;
     justify-content: space-around;
-    /* gap: 20px; */
     align-items: center;
     margin-bottom: 50px;
 }
